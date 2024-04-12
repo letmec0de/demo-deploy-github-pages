@@ -4,6 +4,7 @@ body{
     width: 900px;
     border-radius: 10px;
     background-color: rgb(199, 236, 238);
+    border: solid, green, 1px;
 }
 .header{
     border: 1px solid green;
